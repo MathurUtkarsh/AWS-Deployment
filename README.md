@@ -1,1 +1,1 @@
-# AWS-Deployment
+# Salary Prediction in AWS
