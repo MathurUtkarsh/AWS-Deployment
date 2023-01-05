@@ -16,8 +16,9 @@ Results:
 
 1.
 
-![1](https://user-images.githubusercontent.com/78642104/210829889-9ca04af3-6a86-4264-9f36-52931acc18a5.png)
+![2](https://user-images.githubusercontent.com/78642104/210829914-ac3e0f99-6b4f-4859-acfd-e8566ae02e85.png)
+
 
 2.
 
-![2](https://user-images.githubusercontent.com/78642104/210829914-ac3e0f99-6b4f-4859-acfd-e8566ae02e85.png)
+![1](https://user-images.githubusercontent.com/78642104/210829889-9ca04af3-6a86-4264-9f36-52931acc18a5.png)
